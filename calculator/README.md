@@ -1,7 +1,7 @@
 # Calculator
 This is a project prompting a user to write a string of values that are outputted.
 #### By Joy King'oo
-##Description
+## Description
 My project allows a user to make arithmetic operations and they get an output of the result
 ##Installation Requirements
 * Must have a modern browser
