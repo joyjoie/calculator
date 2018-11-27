@@ -2,7 +2,7 @@
 This is a project prompting a user to write a string of values that are outputted.
 #### By Joy King'oo
 ##Description
-My project allows a user to input their name and they get a greeting after writing down the details of their name.
+My project allows a user to make arithmetic operations and they get an output of the result
 ##Installation Requirements
 * Must have a modern browser
 * Must have a text editor
